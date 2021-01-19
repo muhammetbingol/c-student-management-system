@@ -1,0 +1,12 @@
+C:\Users\serok\Desktop\öğrencikayıt\öğrencikayıt\bin\Debug\öğrencikayıt.exe.config
+C:\Users\serok\Desktop\öğrencikayıt\öğrencikayıt\bin\Debug\öğrencikayıt.exe
+C:\Users\serok\Desktop\öğrencikayıt\öğrencikayıt\bin\Debug\öğrencikayıt.pdb
+C:\Users\serok\Desktop\öğrencikayıt\öğrencikayıt\obj\Debug\öğrencikayıt.csprojAssemblyReference.cache
+C:\Users\serok\Desktop\öğrencikayıt\öğrencikayıt\obj\Debug\öğrencikayıt.Form1.resources
+C:\Users\serok\Desktop\öğrencikayıt\öğrencikayıt\obj\Debug\öğrencikayıt.Properties.Resources.resources
+C:\Users\serok\Desktop\öğrencikayıt\öğrencikayıt\obj\Debug\öğrencikayıt.csproj.GenerateResource.cache
+C:\Users\serok\Desktop\öğrencikayıt\öğrencikayıt\obj\Debug\öğrencikayıt.csproj.CoreCompileInputs.cache
+C:\Users\serok\Desktop\öğrencikayıt\öğrencikayıt\obj\Debug\öğrencikayıt.exe
+C:\Users\serok\Desktop\öğrencikayıt\öğrencikayıt\obj\Debug\öğrencikayıt.pdb
+C:\Users\serok\Desktop\öğrencikayıt\öğrencikayıt\obj\Debug\öğrencikayıt.Form2.resources
+C:\Users\serok\Desktop\öğrencikayıt\öğrencikayıt\obj\Debug\öğrencikayıt.Form3.resources
